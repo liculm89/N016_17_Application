@@ -1,0 +1,13 @@
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\bin\x86\Debug\cognex_tesanj.exe.config
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\Interop.ADODB.dll
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\Interop.JRO.dll
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.csproj.ResolveComReference.cache
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\bin\x86\Debug\cognex_tesanj.exe
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\bin\x86\Debug\cognex_tesanj.pdb
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.Form1.resources
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.Properties.Resources.resources
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.csproj.GenerateResource.Cache
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.exe
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.pdb
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.csprojResolveAssemblyReference.cache
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Debug\cognex_tesanj.Form2.resources

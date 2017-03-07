@@ -32,6 +32,7 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.open_viewer = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -71,11 +72,22 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // open_viewer
+            // 
+            this.open_viewer.Location = new System.Drawing.Point(405, 306);
+            this.open_viewer.Name = "open_viewer";
+            this.open_viewer.Size = new System.Drawing.Size(192, 23);
+            this.open_viewer.TabIndex = 4;
+            this.open_viewer.Text = "Open database editor";
+            this.open_viewer.UseVisualStyleBackColor = true;
+            this.open_viewer.Click += new System.EventHandler(this.open_viewer_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(822, 522);
+            this.Controls.Add(this.open_viewer);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.dataGridView1);
@@ -94,6 +106,7 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button open_viewer;
     }
 }
 

@@ -17,7 +17,6 @@ G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje 
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\Debug\cognex_tesanj.pdb
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\bin\Debug\cognex_tesanj.exe
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\bin\Debug\cognex_tesanj.pdb
-G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\Debug\cognex_tesanj.csprojResolveAssemblyReference.cache
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\Debug\cognex_tesanj.Properties.Resources.resources
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\Debug\cognex_tesanj.csproj.GenerateResource.Cache
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\Debug\cognex_tesanj.Form1.resources

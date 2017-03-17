@@ -1,0 +1,35 @@
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\SampleApplication.exe
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\SampleApplication.pdb
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.Discovery.PC.dll
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.PC.dll
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.Utils.PC.dll
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\Cognex.Cnx.Common.dll
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.Utils.PC.pdb
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.Discovery.PC.xml
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.PC.xml
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.PC.csprojResolveAssemblyReference.cache
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.frmReconnecting.resources
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.MainForm.resources
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.Properties.Resources.resources
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.PC.csproj.GenerateResource.Cache
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.exe
+C:\Users\Paresh\Cognex\DataMan SDK 5.0.8.0\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.pdb
+C:\Projects\DataMan\obj\Debug\SampleApplication.exe
+C:\Projects\DataMan\obj\Debug\SampleApplication.pdb
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\obj\Debug\SampleApplication.exe
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\obj\Debug\SampleApplication.pdb
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\obj\Debug\SampleApplication.PC.csprojResolveAssemblyReference.cache
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\obj\Debug\Cognex.DataMan.SDK.frmReconnecting.resources
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\obj\Debug\Cognex.DataMan.SDK.MainForm.resources
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\obj\Debug\Cognex.DataMan.SDK.Properties.Resources.resources
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\obj\Debug\SampleApplication.PC.csproj.GenerateResource.Cache
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\SampleApplication.exe
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\SampleApplication.pdb
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.dll
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.DataMan.SDK.Utils.PC.dll
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.Cnx.Common.dll
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.DataMan.CogNamer.PC.dll
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.DataMan.Discovery.PC.xml
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.DataMan.SDK.PC.xml
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\dataman sample\DataMan\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml

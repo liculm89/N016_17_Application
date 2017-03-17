@@ -49,8 +49,6 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(667, 458);
             this.dataGridView1.TabIndex = 0;
-           // this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-          //  this.dataGridView1.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_CellMouseClick);
             this.dataGridView1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.dataGridView1_MouseClick_1);
             // 
             // datamatrix_txt
@@ -153,7 +151,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.retrieveBtn);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Editiranje databaze";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

@@ -17,6 +17,7 @@ namespace cognex_tesanj
         DataSet myset = new DataSet("Excel import");
         DataTable dataTable = new DataTable("excelImport");
         System.Data.OleDb.OleDbDataAdapter dataAdapter;
+        //System.Data.
 
         System.Data.OleDb.OleDbCommandBuilder scb;
         DataSet ds = new DataSet();
@@ -26,16 +27,9 @@ namespace cognex_tesanj
 
             System.Data.OleDb.OleDbConnection MyConnection;
             System.Data.OleDb.OleDbCommand mycommand = new System.Data.OleDb.OleDbCommand();
-            //string database_loc = "'G:\\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\\databaza.xlsx'";
-            //string connectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Extended Properties=Excel 12.0; Data Source="+database_loc +";";
-        
+            string Db_Password = "0000";
             string database_loc = "'G:\\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\\database_access.accdb'";
-
-            string connectionString = "Provider=Microsoft.ACE.OLEDB.12.0;  Persist Security Info = False; Data Source=" + database_loc +";";
-
-
-            //Provider = Microsoft.ACE.OLEDB.12.0; Data Source = C:\myFolder\myAccessFile.accdb;
-           
+            string connectionString = "Provider=Microsoft.ACE.OLEDB.12.0; Jet OLEDB:Database Password=" + Db_Password + "; Persist Security Info = False; Data Source=" + database_loc +";";       
 
             MyConnection = new System.Data.OleDb.OleDbConnection(connectionString);
             MyConnection.Open();
@@ -70,58 +64,33 @@ namespace cognex_tesanj
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            System.Data.OleDb.OleDbConnection MyConnection = CreateConnection();
-
-            string m_selectSQL = "SELECT * FROM Popis_komada";
-           
-            dataAdapter = new System.Data.OleDb.OleDbDataAdapter(m_selectSQL, MyConnection);
-
-
-            dataAdapter.Fill(dataTable);
-       
-
-            dataAdapter.MissingSchemaAction = MissingSchemaAction.AddWithKey;
-
-            dataGridView1.DataSource = dataTable;
-       
-            MyConnection.Close();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                System.Data.OleDb.OleDbConnection MyConnection = CreateConnection();
-
-                scb = new System.Data.OleDb.OleDbCommandBuilder(dataAdapter);
-
-               // dataAdapter.DeleteCommand = scb.GetDeleteCommand(true);
-                dataAdapter.UpdateCommand = scb.GetUpdateCommand(true);
-                dataAdapter.UpdateCommand = MyConnection.CreateCommand();
-              //  dataAdapter.InsertCommand = scb.GetInsertCommand(true);
-
-                //dataTable.PrimaryKey = new DataColumn[] { dataTable.Columns["ID"] };
-                //dataAdapter.UpdateCommand = scb.GetUpdateCommand();          
-                dataAdapter.Update(dataTable);
-                MyConnection.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.ToString());
-            }
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
 
         private void open_viewer_Click(object sender, EventArgs e)
         {
             Form2 f2 = new Form2();
-            f2.ShowDialog();
+            f2.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MainForm cognex_form = new MainForm();
+            cognex_form.Show();
+        }
+
+        private void settingsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Button pressed", "Title"); 
+            //MessageBox.Show()
         }
     }
 }

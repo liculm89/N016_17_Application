@@ -23,3 +23,4 @@ G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje 
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Release\cognex_tesanj.application
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Release\cognex_tesanj.exe
 G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Release\cognex_tesanj.pdb
+G:\N016_17 - Dogradnja Cognex DM čitača datamatrix koda na stroju za mjerenje sile uprešavanja\cognex_tesanj\cognex_tesanj\obj\x86\Release\cognex_tesanj.csprojResolveAssemblyReference.cache

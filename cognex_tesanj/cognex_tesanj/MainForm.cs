@@ -6,7 +6,7 @@ using System.Xml;
 using Cognex.DataMan.SDK.Discovery;
 using Cognex.DataMan.SDK.Utils;
 using Cognex.DataMan.SDK;
-using cognex_tesanj;
+
 
 namespace cognex_tesanj
 {
@@ -658,12 +658,13 @@ namespace cognex_tesanj
 
             public int GetNextUniqueSessionId()
             {
-                throw new NotImplementedException();
+                //throw new NotImplementedException();
+                return 0;
             }
 
             public void LogTraffic(int sessionId, bool isRead, byte[] buffer, int offset, int count)
             {
-                throw new NotImplementedException();
+                //throw new NotImplementedException();
             }
         }
 
